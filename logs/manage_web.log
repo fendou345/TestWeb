@@ -1,0 +1,9 @@
+INFO: 07-11 16:52:09: init_driver.py:123 * 13876 ´ò¿ª¹È¸èä¯ÀÀÆ÷
+INFO: 07-11 16:52:15: base_methods.py:26 * 13876  * BaseMethod is calling ...       
+INFO: 07-11 16:52:17: base_methods.py:265 * 13876 Sleep for 1 seconds
+INFO: 07-11 16:52:17: base_methods.py:186 * 13876 Had type 'admin' in inputbox
+INFO: 07-11 16:52:18: base_methods.py:265 * 13876 Sleep for 1 seconds
+INFO: 07-11 16:52:18: base_methods.py:186 * 13876 Had type 'cc123456' in inputbox
+INFO: 07-11 16:52:18: base_methods.py:157 * 13876 Had find the element 'Á¢¼´µÇÂ¼' successful by xpath value: /html/body/app-root/login/div/div[1]/div/div[1]/form/div[3]/button
+INFO: 07-11 16:52:19: base_methods.py:265 * 13876 Sleep for 1 seconds
+INFO: 07-11 16:52:19: base_methods.py:244 * 13876 The element '<selenium.webdriver.remote.webelement.WebElement (session="5b05cc9f0d14c61a1d2a2488ce86408d", element="0.7679941230949034-3")>' was clicked
